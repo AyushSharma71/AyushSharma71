@@ -15,17 +15,27 @@
 
 ## Activity
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/streak?username=AyushSharma71&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=AyushSharma71&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width=80% height=70% />
 </div>
 <br><br>
 
 ## Contribution Graph
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=AyushSharma71&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <!-- <img src="https://github-profile-maker.vercel.app/api/activity?username=AyushSharma71&theme=tokyonight&hide_border=true" alt="Activity Graph" /> -->
+   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br><br>
 
 ## Contact
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Raj) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ayush004appis@gmail.com)
-</div>
+<p align="center">
+  <a href="mailto:ayush004appis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/Ayush Raj">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+
+
+
