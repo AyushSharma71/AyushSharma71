@@ -21,8 +21,7 @@
 
 ## Contribution Graph
 <div align="center">
-  <!-- <img src="https://github-profile-maker.vercel.app/api/activity?username=AyushSharma71&theme=tokyonight&hide_border=true" alt="Activity Graph" /> -->
-   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=AyushSharma71&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 <br><br>
 
