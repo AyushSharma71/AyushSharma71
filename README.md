@@ -28,8 +28,7 @@ Building projects and learning system design one step at a time.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushSharma71&show_icons=true&theme=tokyonight&hide_border=false"/>&nbsp;&nbsp;
-<img src="https://github-profile-maker.vercel.app/api/streak?username=AyushSharma71&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-profile-maker.vercel.app/api/streak?username=AyushSharma71&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
