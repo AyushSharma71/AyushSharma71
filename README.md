@@ -1,33 +1,31 @@
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=522f6f&colorEnd=A82DAA&height=200&section=footer&text=Ayush+Sharma&fontSize=45&fontColor=ffff&animation=pulse&gradientDirection=diagonal&parallax=true&wavePosition=8&waveAmplitude=50&waveSpeed=37&flipWave=false&textAlignX=50&textAlignY=50&rtl=14&rtr=14&rbr=24&rbl=24" />
+</div>
+<br><br><br><br><br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushSharma71&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+</div>
+<br><br>
+
+## Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,c,css,java,mongodb,html,express&perline=10&theme=dark" />
+</div>
+<br><br>
 
 ## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhraBNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhraBNayak&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
-</p>
-
----
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=AyushSharma71&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+<br><br>
 
 ## Contribution Graph
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=AyushSharma71&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
+<br><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:ayush004appis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://linkedin.com/in/Ayush Raj">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black"/>
-  </a>
-</p>
-
-
-
-
-
+#Contact
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Raj) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ayush004appis@gmail.com)
+</div>
