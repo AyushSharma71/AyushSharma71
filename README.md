@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=522f6f&colorEnd=A82DAA&height=200&section=footer&text=Ayush+Sharma&fontSize=45&fontColor=ffff&animation=pulse&gradientDirection=diagonal&parallax=true&wavePosition=8&waveAmplitude=50&waveSpeed=37&flipWave=false&textAlignX=50&textAlignY=50&rtl=14&rtr=14&rbr=24&rbl=24" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=522f6f&colorEnd=A82DAA&height=200&section=header&text=Ayush+Sharma&fontSize=45&fontColor=ffff&animation=pulse&gradientDirection=diagonal&parallax=true&wavePosition=8&waveAmplitude=50&waveSpeed=37&flipWave=false&textAlignX=50&textAlignY=50&rtl=14&rtr=14&rbr=24&rbl=24" />
 </div>
-
 <!-- <h3 align="center">
 Backend Developer • Java • Node.js • MongoDB
 </h3> -->
